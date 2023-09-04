@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Phudu', cursive;
+}
+
+.header{
+    background: rgb(218,195,252);
+    background: linear-gradient(90deg, rgba(218,195,252,1) 0%) rg
+}
+
+.logo{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.nav-bar{
+    background-color: aquamarine;
+    float: left;
+}
+
+.lists-elements{
+    color: cornsilk;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contenedor{
+    font-size: 80px;
+}
